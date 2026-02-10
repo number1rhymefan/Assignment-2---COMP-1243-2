@@ -1,0 +1,20 @@
+This assignment is to have you use Sentinel-Controlled Repetition and the Statistics library. 
+
+It is your job to write a program to calculate the average cost of frozen vegetables in the grocery store. 
+You will ask the user for three pieces of information each loop through the program -  the size of the bag of vegetables purchased (in grams), 
+the cost of the bag (in $), and the name of the product. From the size and cost of the bag, you will be able to calculate the cost per 100g, 
+which is what is often displayed in the grocery store. So, if the user enters a bag of rice at 500 grams and $3.99, then the answer will be $0.798 / 100 grams. 
+(The math is (size / price)*100.) Round your output to 3 decimal places.
+
+Allow the user to enter in as many entries as they would like, calculating the cost per 100 grams for each bag. When the user indicates that they are done, 
+calculate and output the following:
+
+The overall cost
+The overall weight
+Overall cost per 100g (for the total weight and the total price)
+The mean cost per bag (what is the average price per bag)
+The median cost per bag
+The max / min costs per bag
+The max / min bag sizes
+What item was the most expensive
+What item was the most expensive per gram
